@@ -24,4 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-PhD candidate in Political Science at the University of Rochester. I work on models of authoritarian politics, interstate conflict, and social norms.  
+PhD candidate in Political Science at the University of Rochester. I work on models of authoritarian politics, inter/intra-state conflict, and social norms.  
