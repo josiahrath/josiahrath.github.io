@@ -9,7 +9,7 @@ nav_order: 3
 ### instructor of record
 
 * Introduction to the Study of Politics (CSUF, 2022)
-  * [Syllabus](#)
+  * [Syllabus](#)(/assets/pdf/posc200syllabus.pdf)
   * [Evaluations](#)
 
 ### teaching assistant
