@@ -26,4 +26,4 @@ latest_posts:
 
 PhD candidate in Political Science at the University of Rochester. I work on models of authoritarian politics, inter/intra-state conflict, and social norms.  
 
-Feel free to email me at jrath2@ur.rochester.edu, or view my CV. 
+Feel free to email me at <mark>jrath2@ur.rochester.edu</mark>, or view my [CV](/assets/pdf/josiahrath_CV_march2026.pdf).
