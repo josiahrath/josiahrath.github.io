@@ -24,6 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-PhD candidate in Political Science at the University of Rochester. I previously received a BA and MA from California State University, Fullerton. I primarily work on formal models of authoritarian politics, inter/intra-state conflict, and social norms. I also have an enduring interest in the history and philosophy of the social sciences. 
+PhD candidate in Political Science at the University of Rochester. I previously received a BA and MA from California State University, Fullerton. 
+
+I primarily work on formal models of authoritarian politics, inter/intra-state conflict, and social norms. I also have an enduring interest in the history and philosophy of the social sciences. 
 
 Feel free to email me at <mark>jrath2@ur.rochester.edu</mark>, or view my [CV](/assets/pdf/josiahrath_CV_march2026.pdf).
