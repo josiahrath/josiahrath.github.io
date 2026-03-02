@@ -6,13 +6,13 @@ nav: true
 nav_order: 3
 ---
 
-### Instructor of Record
+### instructor of record
 
 * Introduction to the Study of Politics (CSUF, 2022)
   * [Syllabus](#)
   * [Evaluations](#)
 
-### Teaching Assistant
+### teaching assistant
 
 * Introduction to International Political Economy (UR, Randall Stone, 2026)
 * Introduction to Comparative Politics (UR, Bonnie Meguid, 2025)
