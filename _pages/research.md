@@ -16,6 +16,6 @@ nav_order: 2
     </blockquote>
   </details>
 
-* ### Working Papers
+### Working Papers
 * [The Logic of Parallel Armies]
 * [Conquest on a Line]
