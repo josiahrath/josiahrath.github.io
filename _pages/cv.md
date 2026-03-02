@@ -1,12 +1,8 @@
 ---
-layout: cv
-permalink: /cv/
+layout: page
 title: CV
+permalink: /cv/
 nav: true
-nav_order: 5
-cv_pdf: /assets/pdf/josiahrath_CV_march2026.pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description:
-toc:
-  sidebar: left
+nav_order: 3
+redirect_to: /assets/pdf/josiahrath_CV_march2026.pdf
 ---
