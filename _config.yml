@@ -235,6 +235,21 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+  - scope:
+      path: ""
+      type: "year_archive"
+    values:
+      sitemap: false
+  - scope:
+      path: ""
+      type: "tag_archive"
+    values:
+      sitemap: false
+  - scope:
+      path: ""
+      type: "category_archive"
+    values:
+      sitemap: false
 
 sass:
   style: compressed
